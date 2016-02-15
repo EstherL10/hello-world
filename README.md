@@ -1,2 +1,2 @@
 # hello-world
-My very first projects. Nothing to get excited about, just something to look at in a few months to see how far (or not) I have gone into this new journey.
+In this new adventure, I think it is always good to keep a record of the stumbling first steps so that one day, looking back, I don't become too bigheaded.
